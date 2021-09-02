@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **html, css, JavaScript, React JS, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DenisDimov](https://github.com/DenisDimov)
+- 👨‍💻 All of my projects are available at [https://github.com/DenisDimov?tab=repositories](https://github.com/DenisDimov)
 
 - 📫 How to reach me **dimovdenisik@yandex.ru**
 
