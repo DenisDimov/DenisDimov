@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **dimovdenisik@yandex.ru**
 
+<h3 align="left">Languages and Tools:</h3>
+
 [![Java Script](https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/)
 [![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
 [![HTML](https://shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=fff)](https://html5book.ru/html-html5/)
